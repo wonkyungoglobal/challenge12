@@ -1,11 +1,9 @@
-# challenge12
-
 Credit Risk Analysis Report: 
 
 The purpose of this analysis is to create a predictive model to identify healthy and high-risk loans based on a set of feature data. A standard regression model is used to train and test the model using the original data that is imbalanced, which could create biases in the outcome.  We will manipulate the dataset to balance the data for more accurate results.  
 
 Model_1: 
-> Balanced accuracy -  0.9348689535044776 
+> Balanced accuracy -  0.9348689535044776 ; 
 > precision -  0.93
 > recall -  0.95
 
